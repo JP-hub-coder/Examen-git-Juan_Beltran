@@ -16,3 +16,8 @@ El entrenamiento funcional se basa en ejercicios que imitan movimientos cotidian
 3. Mantén una técnica correcta durante cada movimiento.
 4. Ajusta la intensidad según tu nivel de condición física.
 5. Finaliza con estiramientos y ejercicios de movilidad.
+
+## Consejos
+- Prioriza la calidad del movimiento sobre la cantidad de repeticiones.
+- Usa tu propio peso corporal o implementos como bandas elásticas y mancuernas.
+- Descansa lo necesario entre series para evitar la fatiga excesiva.
