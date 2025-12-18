@@ -16,3 +16,8 @@ Pilates es un método de entrenamiento físico que se enfoca en el fortalecimien
 3. Ejecuta los ejercicios de forma lenta y controlada.
 4. Mantén el abdomen activado durante toda la sesión.
 5. Finaliza con estiramientos y respiración relajada.
+
+## Consejos
+- Prioriza la técnica correcta antes que la cantidad de repeticiones.
+- Evita movimientos bruscos o forzados.
+- Practica Pilates de forma regular para obtener mejores resultados.
