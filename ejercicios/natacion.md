@@ -17,3 +17,8 @@ La natación es una actividad física completa que se realiza en el agua y traba
 3. Mantén una respiración controlada y constante.
 4. Nada durante al menos 20 a 30 minutos.
 5. Finaliza con estiramientos suaves.
+
+## Consejos
+- Usa gorro y gafas para mayor comodidad.
+- Mantén una técnica adecuada para evitar sobrecargas.
+- Hidrátate antes y después de la sesión.
