@@ -9,3 +9,10 @@ Pilates es un método de entrenamiento físico que se enfoca en el fortalecimien
 - Aumenta la flexibilidad y la movilidad.
 - Favorece la conciencia corporal.
 - Reduce dolores musculares y tensiones.
+
+## Instrucciones
+1. Realiza los ejercicios sobre una colchoneta o superficie cómoda.
+2. Concéntrate en la respiración, coordinándola con cada movimiento.
+3. Ejecuta los ejercicios de forma lenta y controlada.
+4. Mantén el abdomen activado durante toda la sesión.
+5. Finaliza con estiramientos y respiración relajada.
