@@ -14,3 +14,8 @@ Los ejercicios de flexibilidad están diseñados para mejorar el rango de movimi
 2. Ejecuta los estiramientos de forma lenta y controlada.
 3. Mantén cada estiramiento entre 15 y 30 segundos sin rebotar.
 4. Respira de manera profunda y relajada durante los ejercicios.
+
+## Consejos
+- No fuerces el movimiento más allá de lo cómodo.
+- Realiza los ejercicios de flexibilidad de manera regular.
+- Presta atención a la postura para evitar molestias o lesiones.
