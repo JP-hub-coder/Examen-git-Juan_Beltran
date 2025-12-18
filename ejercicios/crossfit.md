@@ -14,3 +14,9 @@ El CrossFit es un sistema de entrenamiento de alta intensidad que combina ejerci
 2. Ejecuta el entrenamiento del día (WOD) durante 20–30 minutos.
 3. Incluye ejercicios como levantamiento de pesas, saltos, carreras o movimientos gimnásticos.
 4. Finaliza con un enfriamiento y estiramientos.
+
+## Consejos
+- Aprende la técnica correcta antes de aumentar el peso o la intensidad.
+- Ajusta los ejercicios según tu nivel físico.
+- Mantén una hidratación adecuada.
+- Respeta los tiempos de descanso y recuperación.
