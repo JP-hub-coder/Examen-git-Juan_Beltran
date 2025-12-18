@@ -16,3 +16,8 @@ El ciclismo es una actividad física cardiovascular que consiste en el uso de la
 3. Mantén un ritmo constante durante la actividad.
 4. Realiza la sesión durante al menos 30 minutos, según tu nivel.
 5. Finaliza con un enfriamiento y estiramientos.
+
+## Consejos
+- Usa casco y equipo de seguridad adecuado.
+- Mantente bien hidratado durante el recorrido.
+- Respeta las normas de tránsito y elige rutas seguras.
