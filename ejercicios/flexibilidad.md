@@ -8,3 +8,9 @@ Los ejercicios de flexibilidad están diseñados para mejorar el rango de movimi
 - Reduce el riesgo de lesiones.
 - Disminuye la tensión muscular.
 - Favorece la relajación y el bienestar general.
+
+## Instrucciones
+1. Realiza un calentamiento ligero de 5 minutos antes de comenzar.
+2. Ejecuta los estiramientos de forma lenta y controlada.
+3. Mantén cada estiramiento entre 15 y 30 segundos sin rebotar.
+4. Respira de manera profunda y relajada durante los ejercicios.
