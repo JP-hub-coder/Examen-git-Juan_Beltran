@@ -14,3 +14,9 @@ El boxeo es un deporte de combate y una disciplina de acondicionamiento físico 
 2. Practica golpes básicos (jab, cross, gancho, uppercut) y desplazamientos durante 30 minutos.
 3. Realiza ejercicios de sombra o saco.
 4. Termina con enfriamiento y estiramientos.
+
+## Consejos
+- Usa vendas y guantes para proteger las manos.
+- Mantén una postura adecuada y la guardia alta.
+- Entrena a un ritmo acorde a tu nivel.
+- Mantén una hidratación adecuada.
